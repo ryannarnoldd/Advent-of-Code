@@ -1,7 +1,7 @@
 # Ryan Arnold - Advent 2022 - Day 1: Calorie Counting
 
 # Read in the input file and create a list of calories
-with open("input/1.txt") as f:
+with open('1.txt') as f:
     lines = f.readlines()
 carried_food = [int(line) if line != "\n" else 0 for line in lines]
     
