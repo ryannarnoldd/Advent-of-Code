@@ -1,1 +1,0 @@
-# Ryan Arnold - Advent 2022 - Day 12: Hill Climbing Algorithm
